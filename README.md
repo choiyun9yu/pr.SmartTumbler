@@ -4,7 +4,7 @@
 3. 팀원 : 최윤규, 이명기, 김성민
 4. 기간 : 22. 08. 10 ~ 22. 08. 30
 
-# My Role : TextMining, MachineLearning, Database, Server
+# Role : TextMining, MachineLearning, Database, Server
 1. 나의 역할 : 머신러닝, 데이터베이스, 서버, 기획/발표, CF제작, NTF제작
 
 2. 내가 사용한 기술 : Scikit-Learn, OKT, MariaDB, Flask, NFT제작, 영상편집, Arduino-sketch
