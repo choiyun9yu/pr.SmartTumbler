@@ -1,11 +1,11 @@
 # Project : Aqu4Men
 1. 개요 : 충분한 수분 섭취의 필요성을 인지하고 있지만 지키기 어려운 현실        
 2. 목표 : IoT를 활용해 물먹는 습관을 형성시킬 수 있는 환경 조성
-3. 팀원 : 최윤규, 이명기, 김성민
+3. 팀원 : 최윤규, 이명기(하드웨어, 3D모델링), 김성민(프론트)
 4. 기간 : 22. 08. 10 ~ 22. 08. 30
 
-# My Role : TextMining, MachineLearning, Database, Server
-1. 나의 역할 : 머신러닝, 데이터베이스, 서버, 기획/발표, CF제작, NTF제작
+# My Role
+1. 역할 : 머신러닝, 데이터베이스, 서버, 기획/발표, CF제작, NTF제작
 
 2. 내가 사용한 기술 : Scikit-Learn, OKT, MariaDB, Flask, NFT제작, 영상편집, Arduino-sketch
 
