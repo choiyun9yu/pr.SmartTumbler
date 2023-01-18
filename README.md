@@ -1,9 +1,9 @@
-# project : Aqu4Men
+# Project : Aqu4Men
 - 목표 : 물먹는 습관 형성을 위한 스마트컵홀더 제작
 - 팀원 : 최윤규, 이명기, 김성민
 - 기간 : 22. 08. 10 ~ 22. 08. 30
 
-# 나의 역할 : TextMining, MachineLearning, Database, Server, Hardware
+# My Rolo : TextMining, MachineLearning, Database, Server
 - 내가 사용한 기술 : Scikit-Learn, OKT, MariaDB, Flask,  
                  NFT제작, 영상편집, Arduino-sketch
 
