@@ -5,7 +5,7 @@
 4. 기간 : 22. 08. 10 ~ 22. 08. 30
 
 # 나의 역할 : 머신러닝, 데이터베이스, 서버, 기획
-1. 내가 사용한 기술 : Scikit-Learn, OKT, MariaDB, Flask, Arduino-sketch, Final Cut Pro
+1. 내가 사용한 기술 : Scikit-Learn, KoNLPy, MariaDB, Flask, Arduino-sketch, Final Cut Pro
 
 2. 수행 업무
     - 센싱 데이터 수집, 데이터 전처리, 
