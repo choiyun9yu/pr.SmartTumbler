@@ -1,8 +1,21 @@
-# 진행 프로젝트 : Aqu4Men
-1. 개요 : 충분한 수분 섭취의 필요성을 인지하고 있지만 지키기 어려운 현실        
-2. 목표 : IoT를 활용해 물먹는 습관을 형성시킬 수 있는 환경 조성
-3. 팀원 : 이명기(하드웨어, 3D모델링), 김성민(프론트)
-4. 기간 : 22. 08. 10 ~ 22. 08. 30
+# Aqu4Men Project
+
+## Overview
+Modern individuals are aware of the importance of sufficient hydration, but find it difficult to adhere to.
+So we tried to create an environment where you drink water through a smart tumblr with AI.
+
+
+## Text Mining
+Fist of all, we used Web-crawling and Text-mining in order to research the tumblr market.
+We collected tumblr purchase reviews and inputed into KoNLPy's OKT which is a morpheme separator.
+And then, we created a Word-Cloud and TF-iDF vector.
+
+![TextMining](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/ERD.png)
+
+## Data Modeling
+
+
+![ERD](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/ERD.png)
 
 # 나의 역할 : 머신러닝, 데이터베이스, 서버, 기획
 1. 내가 사용한 기술 : Scikit-Learn, KoNLPy, MariaDB, Flask, Arduino-sketch, Final Cut Pro
