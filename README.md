@@ -10,12 +10,15 @@ Fist of all, we used Web-crawling and Text-mining in order to research the tumbl
 We collected tumblr purchase reviews and inputed into KoNLPy's OKT which is a morpheme separator.
 And then, we created a Word-Cloud and TF-iDF vector.
 
-![TextMining](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/ERD.png)
+![TextMining](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/textmining.png)
 
 ## Data Modeling
-
-
+### 1. Logical Model
 ![ERD](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/ERD.png)
+
+### 2. Pysical Model
+[DCL for Maria DB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
+
 
 # 나의 역할 : 머신러닝, 데이터베이스, 서버, 기획
 1. 내가 사용한 기술 : Scikit-Learn, KoNLPy, MariaDB, Flask, Arduino-sketch, Final Cut Pro
