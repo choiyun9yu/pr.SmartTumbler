@@ -12,18 +12,21 @@ And then, we created a Word-Cloud and TF-iDF vector.
 
 ![TextMining](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/textmining.png)
 
-## Data Modeling
-### 1. Logical Model
-![ERD](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/ERD.png)
-
-### 2. Pysical Model
-[![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
 
 ## Machin Learning
-### 1. Regressor
+This model collects the angle of the tumbler through an acceleration sensor, uses it as feature data, and calculates the amount of water withdrawn from the tumbler as label data.
+
+### Data Collection [![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
+The data collection process involves the following steps. Firstly, the measurement values from the acceleration sensor are transmitted to the server using the EPS8266 module. Subsequently, these values are stored in the server's database.
+![Pipeline](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/pipeline.png)
+
+### Model Evaluation
+#### Regressor
 ![Regressor](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/regressor.png)
-
-### 2. Clustering
+#### Clustering
 ![Clustering](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/clustering.png)
+*If you want to know about more detailed process [here](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/MachineLearning.ipynb).*
 
-*If you want to know about more detailed process [here](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/MachineLearning.ipynb).
+## Report
+_**[A Flow Rate Prediction of Regression Models Using an Acceleration Sensor](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/report.pdf)**_
+
