@@ -16,7 +16,8 @@ And then, we created a Word-Cloud and TF-iDF vector.
 ## Machin Learning
 This model collects the angle of the tumbler through an acceleration sensor, uses it as feature data, and calculates the amount of water withdrawn from the tumbler as label data.
 
-### Data Collection [![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
+### Data Collection 
+[![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
 The data collection process involves the following steps. Firstly, the measurement values from the acceleration sensor are transmitted to the server using the EPS8266 module. Subsequently, these values are stored in the server's database.
 ![Pipeline](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/pipeline.png)
 
@@ -25,6 +26,7 @@ The data collection process involves the following steps. Firstly, the measureme
 ![Regressor](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/regressor.png)
 #### Clustering
 ![Clustering](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/clustering.png)
+  
 *If you want to know about more detailed process [here](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/MachineLearning.ipynb).*
 
 ## Report
