@@ -17,7 +17,7 @@ And then, we created a Word-Cloud and TF-iDF vector.
 ![ERD](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/ERD.png)
 
 ### 2. Pysical Model
-[![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)[DDL for MariaDB]](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
+[![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
 
 ## Machin Learning
 ### 1. Regressor
