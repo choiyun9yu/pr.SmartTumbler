@@ -17,7 +17,7 @@ And then, we created a Word-Cloud and TF-iDF vector.
 ![ERD](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/ERD.png)
 
 ### 2. Pysical Model
-[DCL for Maria DB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
+[![MariaDB](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/mariadb.svg)[DDL for MariaDB]](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL)
 
 ## Machin Learning
 ### 1. Regressor
@@ -27,7 +27,3 @@ And then, we created a Word-Cloud and TF-iDF vector.
 ![Clustering](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/clustering.png)
 
 *If you want to know about more detailed process [here](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/MachineLearning.ipynb).
-
-<div>
-<iframe width="766" height="431" src="https://www.youtube.com/embed/dp3BylZ94lI" title="[Auto-Farming] 프로젝트 요약 소개 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
