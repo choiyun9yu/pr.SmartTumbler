@@ -20,7 +20,7 @@ This model collects the angle of the tumbler through an acceleration sensor, use
 The data collection process involves the following steps. Firstly, the measurement values from the acceleration sensor are transmitted to the server using the EPS8266 module. Subsequently, these values are stored in the server's database.  
   
 ![Pipeline](https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/data/pipeline.png)  
-<a href="https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL"><img src="https://img.shields.io/badge/mariaDB-SQL-darkblue?logo=mariadb&logoColor=white"/></a>
+<a href="https://github.com/choiyun9yu/pr.Aqu4Men/blob/main/Database/DB.SQL"><img src="https://img.shields.io/badge/mariaDB-SQL-blue?logo=mariadb&logoColor=white"/></a>
 
 ### Model Evaluation
 #### Regressor
